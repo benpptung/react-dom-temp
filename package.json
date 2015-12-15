@@ -1,0 +1,19 @@
+{
+  "name": "react-dom",
+  "version": "1.0.0",
+  "description": "As a temp solution before react-dom is separated from react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/react-dom-temp.git"
+  },
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benpptung/react-dom-temp/issues"
+  },
+  "homepage": "https://github.com/benpptung/react-dom-temp#readme"
+}
